@@ -18,7 +18,7 @@
 
    see files:\
    [\__tests\__/localModule-test.tsx](__tests__/localModule-test.tsx)\
-[modules/local-test-module/__mocks__/LocalTestModule.ts](modules/local-test-module/__mocks__/LocalTestModule.ts)\
+[modules/local-test-module/\__mocks\__/LocalTestModule.ts](modules/local-test-module/__mocks__/LocalTestModule.ts)\
 \
    (relevant docs https://docs.expo.dev/modules/mocking/#providing-mocks-for-a-module)
    
