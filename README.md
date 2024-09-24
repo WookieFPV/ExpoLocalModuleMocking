@@ -16,10 +16,11 @@
 
 4. add unit test & mock
 
-   see files:
-    __tests__/localModule-test.tsx
-   modules/local-test-module/__mocks__/LocalTestModule.ts\
-   (following https://docs.expo.dev/modules/mocking/#providing-mocks-for-a-module)
+   see files:\
+   [\__tests\__/localModule-test.tsx](__tests__/localModule-test.tsx)\
+[modules/local-test-module/__mocks__/LocalTestModule.ts](modules/local-test-module/__mocks__/LocalTestModule.ts)\
+\
+   (relevant docs https://docs.expo.dev/modules/mocking/#providing-mocks-for-a-module)
    
 
 5. run unit test
