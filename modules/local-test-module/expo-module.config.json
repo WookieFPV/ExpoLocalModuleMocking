@@ -1,0 +1,9 @@
+{
+  "platforms": ["ios", "android"],
+  "ios": {
+    "modules": ["LocalTestModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.localtestmodule.LocalTestModule"]
+  }
+}
